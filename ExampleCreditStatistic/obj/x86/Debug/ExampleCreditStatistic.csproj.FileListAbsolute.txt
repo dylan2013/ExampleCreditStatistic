@@ -1,0 +1,10 @@
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\obj\x86\Debug\ExampleCreditStatistic.Properties.Resources.resources
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\bin\Debug\ExampleCreditStatistic.dll.config
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\bin\Debug\ExampleCreditStatistic.dll
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\bin\Debug\ExampleCreditStatistic.pdb
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\bin\Debug\Aspose.Cells.dll
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\obj\x86\Debug\ExampleCreditStatistic.dll
+C:\TFS2010-Git\ExampleCreditStatistic\ExampleCreditStatistic\obj\x86\Debug\ExampleCreditStatistic.pdb
